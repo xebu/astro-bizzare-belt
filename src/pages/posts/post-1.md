@@ -4,7 +4,7 @@ title: 'My first Astro blog post'
 pubDate: 2024-08-14
 description: 'This is the first post of my new Astro Blog'
 author: 'Astro Virgin'
-mage:
+image:
     url: 'https://docs.astro.build/assets/rose.webp'
     alt: 'The Astro logo on a dark background with a pin glow.'
 tags: ["astro", "blogging", "learning in public"]
